@@ -1,6 +1,6 @@
 //Jovann Contreras
 //Date 10/27/2022
-//Peer reviewed by:
+//Peer reviewed by: Madeline Gowan - The code runs as intended. I like the use of Models, especially since we just learned them! And I like the categories--having vague terms like dessert and fast food allows more options, wheras I went a bit more specific with coffee, pizza, etc. Good work!
 
 
 using System;
